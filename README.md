@@ -4,7 +4,8 @@
 
 # Video Demo
 
-Demo : https://warm-mesa-43992.herokuapp.com/
+Demo : https://youtu.be/sFwjXFB-zwA
+Web : https://warm-mesa-43992.herokuapp.com/
 
 # Learning Diary
 
